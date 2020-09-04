@@ -1,0 +1,25 @@
+{
+  "name": "chatapp_socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slikon/ChatApp_SocketIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slikon/ChatApp_SocketIO/issues"
+  },
+  "homepage": "https://github.com/Slikon/ChatApp_SocketIO#readme",
+  "dependencies": {
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
