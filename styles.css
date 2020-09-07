@@ -7,6 +7,13 @@ body {
     background-color: #FCF2E3
   }
 
+  #container {
+    width: 80%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+  }
+
   #message-container {
     width: 80%;
     max-width: 1200px;
